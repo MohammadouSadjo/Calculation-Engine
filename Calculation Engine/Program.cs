@@ -10,6 +10,7 @@ namespace Calculation_Engine
         {
             CalculClass calculClass = new CalculClass();
             Console.WriteLine("Calculation Engine Running...");
+
             while (true)
             {
                 calculClass.Calculation();
